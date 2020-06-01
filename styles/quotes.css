@@ -1,7 +1,22 @@
 .quoteList {
-    background-color: lightyellow;
+    background: #14B394;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
+    border: 3px solid coral;
 }
 
 .quote {
-    background-color: yellow;
+    background-color: #FF9269;
+    flex-wrap: wrap; 
+    flex:1;
+    align-items: center;
+    height: auto;
+    padding-bottom: 15px;
+    font-size: small;
+     ;
+    padding:.5em;
+    margin: 1em;
+    font-size: 18px;
 }

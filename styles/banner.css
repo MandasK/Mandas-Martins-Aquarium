@@ -1,3 +1,12 @@
+.banner__logo {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+
 .banner {
-    background-color: darkgoldenrod;
+    background-color: #50FFDD;
+    display: flex;
+    flex-direction: row;
+    font-size: 48px;
 }

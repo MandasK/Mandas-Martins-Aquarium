@@ -1,13 +1,28 @@
 .fishList {
-    background-color: mediumorchid;
+    background-color:#14B394;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
+    font-family: 'Source Code Pro', monospace;
 }
 
 .fish {
-    background-color: mediumvioletred;
+    background-color: lightcoral;
+    flex-wrap: wrap; 
+    flex:1;
+    align-items: center;
+    height: auto;
+    padding-bottom: 15px;
+    font-size: small;
+    border: 2px solid #B34C26 ;
+    padding:.5em;
+    margin: 1em;
+    
 }
 
 
 .fish__picture {
-    max-width: 15rem;
-    max-height: 15rem;
+    max-width: 13rem;
+    max-height: 13rem;
 }
