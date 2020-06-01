@@ -1,13 +1,32 @@
 .locationList {
-    background-color: mediumaquamarine;
+    background-color: #14B394;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
 }
 
 .location {
-    background-color: mediumseagreen;
+    background-color: #FF9269;
+    flex-wrap: wrap; 
+    flex:1;
+    height: auto;
+    padding-bottom: 15px;
+    font-size: small;
+    border: 3px solid coral ;
+    padding:.5em;
+    margin: 1em;
+    align-content: center;
 }
 
 
 .location__picture {
     max-width: 15rem;
     max-height: 15rem;
+    
+}
+
+.location__details {
+    padding-top: 1em;
+    font-family: 'Source Code Pro', monospace;
 }
