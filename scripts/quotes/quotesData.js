@@ -16,3 +16,4 @@ const quotesCollection = [
         author: "Britney Spears"
     }
 ]
+
