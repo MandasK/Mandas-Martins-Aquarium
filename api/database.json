@@ -1,0 +1,103 @@
+{
+    "fish": [{
+        "species": "Trigger Fish",
+        "length": 12,
+        "location": "Bay of Bengal",
+        "picture": "./images/triggerfish.jpg",
+        "food": "Baby squid",
+        "name": "Bubbles"
+    },
+    {
+        "species": "Parrot Fish",
+        "length": 8,
+        "location": "Sea of Google",
+        "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+        "food": "Popcorn",
+        "name": "Angus"
+    },
+    {
+        "species": "Swordfish",
+        "length": 320,
+        "location": "Atlantic Ocean",
+        "picture": "./images/chester.jpeg",
+        "food": "Herring",
+        "name": "Chester"
+    },
+    {
+        "species": "Angel Fish",
+        "length": 8,
+        "location": "Pacific Ocean",
+        "picture": "./images/angelfish.jpg",
+        "food": "Plankton",
+        "name": "Michael"
+    },
+    {
+        "species": "Elegant Corydoras",
+        "length": 3,
+        "location": "Caribbean Sea",
+        "food": "Algae",
+        "name": "Sweet",
+        "picture": "./images/pink.jpg"
+    },
+    {
+        "species": "Orange Roughy",
+        "length": 16,
+        "location": "Southern Ocean",
+        "picture": "./images/roughy.jpeg",
+        "food": "Anchovies",
+        "name": "Michael"
+    }
+],
+
+    "locations": [{
+        "picture": "./images/southern.png",
+        "altTag": "Southern Ocean",
+        "detail":  "Together the snailfish, eelpouts and notothenioids (which includes cod icefish and several other families) account for almost ​9⁄10 of the more than 320 described fish species of the Southern Ocean."
+    },
+    {
+        "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
+        "altTag": "Beautiful picture of Caribbean Sea",
+        "detail":  "In the Caribbean Sea there are around 1,000 documented species of fish, including sharks (bull shark, tiger shark, silky shark and Caribbean reef shark), flying fish, giant oceanic manta ray, angel fish, spotfin butterflyfish, parrotfish, Atlantic Goliath grouper, tarpon and moray eels."
+    },
+    {
+        "picture": "./images/bengal.jpeg",
+        "altTag": "Bay of Bengal",
+        "detail":  "The Bay of Bengal is full of biological diversity, diverging amongst coral reefs, estuaries, fish spawning and nursery areas, and mangroves. The Bay of Bengal is one of the World's 64 largest marine ecosystems."
+    },
+    {
+        "picture": "./images/pacific.jpeg",
+        "altTag": "Pacific Ocean",
+        "detail":  "Due to its enormous size, the Pacific Ocean is home to a wide array of marine creatures, some of which are found nowhere else on earth."
+    }
+],
+
+    "tips": [{
+        "tip": "Poutine viral man braid farm-to-table chambray stumptown"
+    },
+    {
+        "tip": "Poutine viral man braid farm-to-table chambray stumptown"
+    },
+    {
+        "tip": "Poutine viral man braid farm-to-table chambray stumptown"
+    },
+    {
+        "tip": "Poutine viral man braid farm-to-table chambray stumptown"
+    }
+],
+    "quotes": [{
+        "quote": "I am not eccentric. It's just that I am more alive than most people. I am an unpopular electric eel set in a pond of catfish.",
+        "author": "Edith Sitwell"
+    },
+    {
+        "quote": "Now I can look at you in peace; I don't eat you any more.",
+        "author": "Franz Kafka"
+    },
+    {
+        "quote": "A photographer is like a cod, which produces a million eggs in order that one may reach maturity",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "I've never really wanted to go to Japan. Simply because I don’t like eating fish. And I know that's very popular out there in Africa",
+        "author": "Britney Spears"
+    }]
+}

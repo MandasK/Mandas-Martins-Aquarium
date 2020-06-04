@@ -1,7 +1,29 @@
-fishList()
+getFishData().then(
+    () => {
+        fishList()
+    }
+)
 
-quotesList()
+getLocationsData().then(
+    () => {
+        locationsList()
+    }
+)
 
-locationsList()
+getTipsData().then(
+    () => {
+        tipsList()
+    }
+)
 
-tipsList()
+getQuotesData().then(
+    () => {
+        quotesList()
+    }
+)
+
+// quotesList()
+
+// locationsList()
+
+// tipsList()
