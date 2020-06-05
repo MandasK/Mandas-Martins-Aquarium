@@ -22,8 +22,3 @@ getQuotesData().then(
     }
 )
 
-// quotesList()
-
-// locationsList()
-
-// tipsList()
