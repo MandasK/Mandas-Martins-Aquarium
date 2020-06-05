@@ -17,3 +17,10 @@ const quotesList = () => {
         quotesArticleElement.innerHTML += quotesHTML
     }
 }
+
+const quotesVisibilityButton = document.querySelector(".toggleQuotes")
+quotesVisibilityButton.addEventListener("click", clickEvent => {
+
+    document.querySelector(".quoteList").classList.toggle("hidden")
+}
+)
